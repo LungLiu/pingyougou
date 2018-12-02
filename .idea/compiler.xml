@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itcast_sms_service" />
+        <module name="pinyougou_cart_interface" />
+        <module name="pinyougou_cart_service" />
+        <module name="pinyougou_common" />
+        <module name="pinyougou_content_interface" />
+        <module name="pinyougou_content_service" />
+        <module name="pinyougou_dao" />
+        <module name="pinyougou_page_interface" />
+        <module name="pinyougou_page_service" />
+        <module name="pinyougou_pojo" />
+        <module name="pinyougou_portal_web" />
+        <module name="pinyougou_search_interface" />
+        <module name="pinyougou_search_service" />
+        <module name="pinyougou_sellergoods" />
+        <module name="pinyougou_sellergoods_interface" />
+        <module name="pinyougou_sellergoods_service" />
+        <module name="pinyougou_solr_util" />
+        <module name="pinyougou_user_interface" />
+        <module name="pinyougou_user_service" />
+        <module name="pinyougou_web_cart" />
+        <module name="pinyougou_web_manager" />
+        <module name="pinyougou_web_page" />
+        <module name="pinyougou_web_portal" />
+        <module name="pinyougou_web_search" />
+        <module name="pinyougou_web_shop" />
+        <module name="pinyougou_web_user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alicom-dysms-api" target="1.8" />
+      <module name="alicom-mns-receive-samples" target="1.6" />
+      <module name="aliyun-java-sdk-core" target="1.6" />
+      <module name="aliyun-java-sdk-dysmsapi" target="1.6" />
+      <module name="itcast_sms_service" target="1.8" />
+      <module name="manager-web" target="1.8" />
+      <module name="pinyougou_cart_interface" target="1.8" />
+      <module name="pinyougou_cart_service" target="1.8" />
+      <module name="pinyougou_common" target="1.8" />
+      <module name="pinyougou_content_interface" target="1.8" />
+      <module name="pinyougou_content_service" target="1.8" />
+      <module name="pinyougou_dao" target="1.8" />
+      <module name="pinyougou_page_interface" target="1.8" />
+      <module name="pinyougou_page_service" target="1.8" />
+      <module name="pinyougou_parent" target="1.8" />
+      <module name="pinyougou_pojo" target="1.8" />
+      <module name="pinyougou_portal_web" target="1.8" />
+      <module name="pinyougou_search_interface" target="1.8" />
+      <module name="pinyougou_search_service" target="1.8" />
+      <module name="pinyougou_sellergoods" target="1.8" />
+      <module name="pinyougou_sellergoods_interface" target="1.8" />
+      <module name="pinyougou_sellergoods_service" target="1.8" />
+      <module name="pinyougou_solr_util" target="1.8" />
+      <module name="pinyougou_user_interface" target="1.8" />
+      <module name="pinyougou_user_service" target="1.8" />
+      <module name="pinyougou_web_cart" target="1.8" />
+      <module name="pinyougou_web_manager" target="1.8" />
+      <module name="pinyougou_web_page" target="1.8" />
+      <module name="pinyougou_web_portal" target="1.8" />
+      <module name="pinyougou_web_search" target="1.8" />
+      <module name="pinyougou_web_shop" target="1.8" />
+      <module name="pinyougou_web_user" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="springboot_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pinyougou_portal_web:war exploded">
+    <output-path>$PROJECT_DIR$/pinyougou_portal_web/target/pinyougou_portal_web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pinyougou_web_portal" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/pinyougou_web_portal/target/pinyougou_portal_web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="pinyougou_web_portal/web/Web" />
+    </root>
+  </artifact>
+</component>

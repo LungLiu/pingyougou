@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_cart_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_page_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_user_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_cart" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_page" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_portal" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_search" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_shop" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou_web_user" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_demo/alicom-dysms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/api_sdk/aliyun-java-sdk-dysmsapi/pom.xml" />
+        <option value="$PROJECT_DIR$/../dysmsapi_demo_sdk__java/java/msg_demo/alicom-mns-receive-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast_sms_service/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_sms_service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://activemq.apache.org/schema/core" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
